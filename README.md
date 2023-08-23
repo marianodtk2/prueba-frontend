@@ -1,5 +1,5 @@
 # prueba-frontend
-Prueba para el cargo de Frontend
+<h1>Prueba para el cargo de Frontend</h1>
 
 Item de diseño para la prueba de conocimientos de Frontend Developer:
 
