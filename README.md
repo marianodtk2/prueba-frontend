@@ -29,7 +29,7 @@
 <p class="p1"><span class="s1">En el repositorio de Git, el postulante debe comentar el código relacionado con la implementación del diseño responsivo y la adaptación móvil. Esto incluiría explicaciones sobre las librerías de diseño utilizadas (si es el caso), los cambios realizados en los estilos y la estructura de la página, y cualquier otra decisión de diseño que haya tomado para garantizar una experiencia óptima en dispositivos móviles.</span></p>
 <p class="p3"><span class="s1"><br>
 </span></p>
-<h1 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 24.0px 'Helvetica Neue'; color: #d9e2ec; -webkit-text-stroke: #d9e2ec; background-color: #0b0c0f"><span class="s1"><b>Prueba conocimeintos backend</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 24.0px 'Helvetica Neue'; color: #d9e2ec; -webkit-text-stroke: #d9e2ec; background-color: #0b0c0f"><span class="s1"><b>Prueba de conocimientos backend</b></span></h1>
 <p class="p5"><span class="s1">El postulante deberá consumir una api pública utilizando el framework laravel en su versión más actual. Es de libre elección utilizar librerias externas, pero todo el código debe estar comentado con una explicación de cada función y las librerias utilizadas</span></p>
 <p class="p6"><span class="s1"><br>
 </span></p>
