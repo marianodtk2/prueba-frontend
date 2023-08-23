@@ -46,7 +46,7 @@
 <p class="p6"><span class="s1"><br>
 </span></p>
 <h3 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 15.0px 'Helvetica Neue'; color: #d9e2ec; -webkit-text-stroke: #d9e2ec; background-color: #0b0c0f"><span class="s1"><b>Proceso</b></span></h3>
-<p class="p5"><span class="s1">El postulante debe consumir la API de <a href="https://rickandmortyapi.com/"><span class="s11">Rick and morty</span></a> y listar los personajes mostrando nombre y foto de cada uno ordenado alfabeticamente. El resultado debe ser paginado.</span></p>
+<p class="p5"><span class="s1">El postulante debe consumir la API de <a href="https://rickandmortyapi.com/"><span class="s11">Rick and morty</span></a> y listar los personajes mostrando nombre y foto de cada uno ordenado alfabeticamente.</span></p>
 <p class="p5"><span class="s1">Se debe poder ver el detalle de cada personaje con una descripción más amplia y poder filtrar por <b>status</b> y <b>species</b></span></p>
 <p class="p5"><span class="s1">Todo el código debe ser versionado con git en un repositorio público y con su respectivo readme. El primer commit debe ser con el proyecto en blanco y luego ir subiendo cada cambio o funcionalidad nueva.</span></p>
 <p class="p5"><span class="s1">Si el proyecto se dockeriza dará un plus adicional.</span></p>
