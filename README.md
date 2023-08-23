@@ -1,6 +1,6 @@
 
-<p class="p1"><span class="s1">Item adicional para la prueba de conocimientos de Frontend Developer:</span></p>
-<p class="p1"><span class="s1"><b>Desarrollo de Interfaz Responsiva y Adaptación Móvil</b></span></p>
+<h1 class="p1"><span class="s1">Item de diseño para la prueba de conocimientos de Frontend Developer:</span></h1>
+<h2 class="p1"><span class="s1"><b>Desarrollo de Interfaz Responsiva y Adaptación Móvil</b></span></h2>
 <p class="p1"><span class="s1">El postulante deberá asegurarse de que la aplicación web sea completamente receptiva y optimizada para su visualización en dispositivos móviles. Además, deberá implementar un diseño adecuado para pantallas más pequeñas, garantizando una experiencia de usuario fluida y agradable en plataformas móviles. La interfaz debe ajustarse de manera adecuada en diferentes tamaños de pantalla, asegurando que la información se presente de manera legible y atractiva, y que las funciones de filtrado, paginación y visualización de detalles sean igualmente accesibles y efectivas tanto en escritorio como en dispositivos móviles.</span></p>
 <p class="p1"><span class="s1"><b>Desarrollo del Item:</b></span></p>
 <p class="p1"><span class="s1">Para evaluar las habilidades de diseño web, enfoque en el usuario y adaptación móvil del postulante, se puede agregar un nuevo desafío a la prueba existente:</span></p>
@@ -28,7 +28,7 @@
 <p class="p1"><span class="s1"><b>Explicación de Cada Función:</b></span></p>
 <p class="p1"><span class="s1">En el repositorio de Git, el postulante debe comentar el código relacionado con la implementación del diseño responsivo y la adaptación móvil. Esto incluiría explicaciones sobre las librerías de diseño utilizadas (si es el caso), los cambios realizados en los estilos y la estructura de la página, y cualquier otra decisión de diseño que haya tomado para garantizar una experiencia óptima en dispositivos móviles.</span></p>
 <p class="p3"><span class="s1"></span><br></p>
-<h1 style="margin: 0.0px 0.0px 16.0px 0.0px; line-height: 30.0px; font: 24.0px 'Helvetica Neue'; color: #e0e8f0; -webkit-text-stroke: #e0e8f0; background-color: #0c0e12"><span class="s1"><b>Prueba conocimeintos backend</b></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.0px 0.0px; line-height: 30.0px; font: 24.0px 'Helvetica Neue'; color: #e0e8f0; -webkit-text-stroke: #e0e8f0; background-color: #0c0e12"><span class="s1"><b>Item de conocimientos backend</b></span></h1>
 <p class="p5"><span class="s1">El postulante deberá consumir una api pública utilizando el framework laravel en su versión más actual. Es de libre elección utilizar librerias externas, pero todo el código debe estar comentado con una explicación de cada función y las librerias utilizadas</span></p>
 <p class="p6"><span class="s1"><b></b></span><br></p>
 <h3 style="margin: 0.0px 0.0px 16.0px 0.0px; line-height: 18.0px; font: 15.0px 'Helvetica Neue'; color: #e0e8f0; -webkit-text-stroke: #e0e8f0; background-color: #0c0e12"><span class="s1"><b>Herramientas a utilizar</b></span></h3>
