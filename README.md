@@ -27,31 +27,38 @@
 </ul>
 <p class="p1"><span class="s1"><b>Explicación de Cada Función:</b></span></p>
 <p class="p1"><span class="s1">En el repositorio de Git, el postulante debe comentar el código relacionado con la implementación del diseño responsivo y la adaptación móvil. Esto incluiría explicaciones sobre las librerías de diseño utilizadas (si es el caso), los cambios realizados en los estilos y la estructura de la página, y cualquier otra decisión de diseño que haya tomado para garantizar una experiencia óptima en dispositivos móviles.</span></p>
-<p class="p3"><span class="s1"></span><br></p>
-<h1 style="margin: 0.0px 0.0px 16.0px 0.0px; line-height: 30.0px; font: 24.0px 'Helvetica Neue'; color: #e0e8f0; -webkit-text-stroke: #e0e8f0; background-color: #0c0e12"><span class="s1"><b>Item de conocimientos backend</b></span></h1>
+<p class="p3"><span class="s1"><br>
+</span></p>
+<h1 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 24.0px 'Helvetica Neue'; color: #d9e2ec; -webkit-text-stroke: #d9e2ec; background-color: #0b0c0f"><span class="s1"><b>Prueba conocimeintos backend</b></span></h1>
 <p class="p5"><span class="s1">El postulante deberá consumir una api pública utilizando el framework laravel en su versión más actual. Es de libre elección utilizar librerias externas, pero todo el código debe estar comentado con una explicación de cada función y las librerias utilizadas</span></p>
-<p class="p6"><span class="s1"><b></b></span><br></p>
-<h3 style="margin: 0.0px 0.0px 16.0px 0.0px; line-height: 18.0px; font: 15.0px 'Helvetica Neue'; color: #e0e8f0; -webkit-text-stroke: #e0e8f0; background-color: #0c0e12"><span class="s1"><b>Herramientas a utilizar</b></span></h3>
+<p class="p6"><span class="s1"><br>
+</span></p>
+<h3 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 15.0px 'Helvetica Neue'; color: #d9e2ec; -webkit-text-stroke: #d9e2ec; background-color: #0b0c0f"><span class="s1"><b>Herramientas a utilizar</b></span></h3>
 <ul class="ul2">
-  <li class="li8"><span class="s4"><a href="https://laravel.com/"><span class="s1">Laravel</span></a></span></li>
-  <li class="li8"><span class="s4"><a href="https://rickandmortyapi.com/"><span class="s1">Rick and morty</span></a></span></li>
-  <li class="li8"><span class="s4"><a href="https://git-scm.com/"><span class="s1">GIT</span></a></span></li>
-  <li class="li8"><span class="s4"><a href="https://www.docker.com/"><span class="s1">Docker</span></a></span><span class="s5"> (opcional pero es un plus)</span></li>
+  <li class="li8"><span class="s4"><a href="https://laravel.com/"><span class="s5">Laravel</span></a></span><span class="s5"><span class="Apple-converted-space"> </span></span></li>
+  <li class="li9">Vue</li>
+  <li class="li9">React</li>
+  <li class="li10"><span class="s6"><a href="https://rickandmortyapi.com/"><span class="s5">Rick and morty</span></a></span></li>
+  <li class="li11"><span class="s7"><a href="https://git-scm.com/"><span class="s8">GIT</span></a></span></li>
+  <li class="li12"><span class="s9"><a href="https://www.docker.com/"><span class="s8">Docker</span></a></span><span class="s10"> (opcional pero es un plus)</span></li>
 </ul>
-<p class="p6"><span class="s1"><b></b></span><br></p>
-<h3 style="margin: 0.0px 0.0px 16.0px 0.0px; line-height: 18.0px; font: 15.0px 'Helvetica Neue'; color: #e0e8f0; -webkit-text-stroke: #e0e8f0; background-color: #0c0e12"><span class="s1"><b>Proceso</b></span></h3>
-<p class="p5"><span class="s1">El postulante debe consumir la API de <a href="https://rickandmortyapi.com/"><span class="s6">Rick and morty</span></a> y listar los personajes mostrando nombre y foto de cada uno ordenado alfabeticamente. El resultado debe ser paginado.</span></p>
+<p class="p6"><span class="s1"><br>
+</span></p>
+<h3 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 15.0px 'Helvetica Neue'; color: #d9e2ec; -webkit-text-stroke: #d9e2ec; background-color: #0b0c0f"><span class="s1"><b>Proceso</b></span></h3>
+<p class="p5"><span class="s1">El postulante debe consumir la API de <a href="https://rickandmortyapi.com/"><span class="s11">Rick and morty</span></a> y listar los personajes mostrando nombre y foto de cada uno ordenado alfabeticamente. El resultado debe ser paginado.</span></p>
 <p class="p5"><span class="s1">Se debe poder ver el detalle de cada personaje con una descripción más amplia y poder filtrar por <b>status</b> y <b>species</b></span></p>
 <p class="p5"><span class="s1">Todo el código debe ser versionado con git en un repositorio público y con su respectivo readme. El primer commit debe ser con el proyecto en blanco y luego ir subiendo cada cambio o funcionalidad nueva.</span></p>
 <p class="p5"><span class="s1">Si el proyecto se dockeriza dará un plus adicional.</span></p>
-<p class="p5"><span class="s1">Una vez terminado se debe hacer una demostración en vivo con todas las funcionalidades.</span></p>
-<p class="p6"><span class="s1"><b></b></span><br></p>
-<h3 style="margin: 0.0px 0.0px 16.0px 0.0px; line-height: 18.0px; font: 15.0px 'Helvetica Neue'; color: #e0e8f0; -webkit-text-stroke: #e0e8f0; background-color: #0c0e12"><span class="s1"><b>Tiempo y lugar</b></span></h3>
+<p class="p13"><span class="s1"></span><br></p>
+<p class="p6"><span class="s1"><br>
+</span></p>
+<h3 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 15.0px 'Helvetica Neue'; color: #d9e2ec; -webkit-text-stroke: #d9e2ec"><span class="s10"><b>Tiempo y lugar</b></span></h3>
 <ul class="ul2">
-  <li class="li8"><span class="s4"></span><span class="s5">Todo el proceso debe ser realizado en nuestras oficinas ubicadas en Villaseca 21 Ñuñoa.</span></li>
-  <li class="li8"><span class="s4"></span><span class="s5">El tiempo disponible para realizar la prueba será de 2 horas.</span></li>
-  <li class="li8"><span class="s4"></span><span class="s5">La empresa pondra a dispcición todas las herramientas (notebook y lugar físico)</span></li>
+  <li class="li12"><span class="s6"></span><span class="s10">El tiempo disponible para realizar la prueba será de 24 horas en sus casas.</span></li>
+  <li class="li15"><span class="s1"></span><br></li>
 </ul>
-<p class="p9"><span class="s1"><b></b></span><br></p>
-<p class="p3"><span class="s1"></span><br></p>
+<p class="p16"><span class="s1"><br>
+</span></p>
+<p class="p3"><span class="s1"><br>
+</span></p>
 
