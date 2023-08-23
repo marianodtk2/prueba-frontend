@@ -36,8 +36,9 @@
 <h3 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 15.0px 'Helvetica Neue'; color: #d9e2ec; -webkit-text-stroke: #d9e2ec; background-color: #0b0c0f"><span class="s1"><b>Herramientas a utilizar</b></span></h3>
 <ul class="ul2">
   <li class="li8"><span class="s4"><a href="https://laravel.com/"><span class="s5">Laravel</span></a></span><span class="s5"><span class="Apple-converted-space"> </span></span></li>
-  <li class="li9">Vue</li>
-  <li class="li9">React</li>
+  <li class="li8"><span class="s4"><a href="https://vuejs.org/"><span class="s5">Vue</span></a></span><span class="s5"><span class="Apple-converted-space"> </span></span></li>
+  <li class="li8"><span class="s4"><a href="https://es.react.dev/"><span class="s5">React</span></a></span><span class="s5"><span class="Apple-converted-space"> </span></span></li>
+  <p>Aquí tu eliges cuál usar</p>
   <li class="li10"><span class="s6"><a href="https://rickandmortyapi.com/"><span class="s5">Rick and morty</span></a></span></li>
   <li class="li11"><span class="s7"><a href="https://git-scm.com/"><span class="s8">GIT</span></a></span></li>
   <li class="li12"><span class="s9"><a href="https://www.docker.com/"><span class="s8">Docker</span></a></span><span class="s10"> (opcional pero es un plus)</span></li>
