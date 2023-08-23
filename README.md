@@ -56,7 +56,6 @@
 <h3 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 15.0px 'Helvetica Neue'; color: #d9e2ec; -webkit-text-stroke: #d9e2ec"><span class="s10"><b>Tiempo y lugar</b></span></h3>
 <ul class="ul2">
   <li class="li12"><span class="s6"></span><span class="s10">El tiempo disponible para realizar la prueba será de 24 horas en sus casas.</span></li>
-  <li class="li15"><span class="s1"></span><br></li>
 </ul>
 <p class="p16"><span class="s1"><br>
 </span></p>
