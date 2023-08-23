@@ -1,30 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="1894.7">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 20.0px 0.0px; font: 16.0px 'Helvetica Neue'; color: #c7cbd3; -webkit-text-stroke: #c7cbd3; background-color: #343642}
-    p.p3 {margin: 0.0px 0.0px 20.0px 0.0px; font: 16.0px 'Helvetica Neue'; color: #c7cbd3; -webkit-text-stroke: #c7cbd3; background-color: #343642; min-height: 18.0px}
-    p.p5 {margin: 0.0px 0.0px 16.0px 0.0px; font: 16.0px 'Helvetica Neue'; color: #e0e8f0; -webkit-text-stroke: #e0e8f0; background-color: #0c0e12}
-    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 15.0px; font: 15.0px 'Helvetica Neue'; color: #e0e8f0; -webkit-text-stroke: #e0e8f0; min-height: 18.0px}
-    p.p9 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 18.0px; font: 18.0px 'Helvetica Neue'; color: #e0e8f0; -webkit-text-stroke: #e0e8f0; min-height: 21.0px}
-    li.li2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 16.0px 'Helvetica Neue'; color: #c7cbd3; -webkit-text-stroke: #c7cbd3}
-    li.li8 {margin: 0.0px 0.0px 0.0px 0.0px; font: 16.0px 'Helvetica Neue'; color: #e0e8f0; -webkit-text-stroke: #e0e8f0}
-    span.s1 {font-kerning: none}
-    span.s2 {background-color: #343642; -webkit-text-stroke: 0px #000000}
-    span.s3 {font-kerning: none; background-color: #343642}
-    span.s4 {background-color: #0c0e12; -webkit-text-stroke: 0px #000000}
-    span.s5 {font-kerning: none; background-color: #0c0e12}
-    span.s6 {font-kerning: none; color: #e0e8f0; background-color: #0c0e12; -webkit-text-stroke: 0px #e0e8f0}
-    ul.ul1 {list-style-type: none}
-    ul.ul2 {list-style-type: disc}
-  </style>
-</head>
-<body>
+
 <p class="p1"><span class="s1">Item adicional para la prueba de conocimientos de Frontend Developer:</span></p>
 <p class="p1"><span class="s1"><b>Desarrollo de Interfaz Responsiva y Adaptación Móvil</b></span></p>
 <p class="p1"><span class="s1">El postulante deberá asegurarse de que la aplicación web sea completamente receptiva y optimizada para su visualización en dispositivos móviles. Además, deberá implementar un diseño adecuado para pantallas más pequeñas, garantizando una experiencia de usuario fluida y agradable en plataformas móviles. La interfaz debe ajustarse de manera adecuada en diferentes tamaños de pantalla, asegurando que la información se presente de manera legible y atractiva, y que las funciones de filtrado, paginación y visualización de detalles sean igualmente accesibles y efectivas tanto en escritorio como en dispositivos móviles.</span></p>
@@ -80,5 +54,4 @@
 </ul>
 <p class="p9"><span class="s1"><b></b></span><br></p>
 <p class="p3"><span class="s1"></span><br></p>
-</body>
-</html>
+
